@@ -26,5 +26,5 @@
 - 🦾 &ensp;I’m looking to collaborate on open source softwares
 
 <br /><br />
-<img  src="https://github-readme-stats.vercel.app/api?username=articb&hide=contribs&show_icons=true&theme=radical" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=articb&layout=compact&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api?username=articb&hide=contribs&count_private=true&show_icons=true&theme=radical" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=articb&layout=compact&theme=radical" />
 
