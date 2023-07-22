@@ -21,8 +21,8 @@
 </div>
 
 <br /><br />
-- 🔭 &ensp;I’m currently working on my <a href="https://trackv.in">trackv.in</a> project
-- 🌱 &ensp;I’m currently learning React and Flutter
+<!-- - 🔭 &ensp;I’m currently working on my <a href="https://trackv.in">trackv.in</a> project
+- 🌱 &ensp;I’m currently learning React and Flutter -->
 - 🦾 &ensp;I’m looking to collaborate on open source softwares
 
 <br /><br />
